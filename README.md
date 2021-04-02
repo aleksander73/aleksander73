@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 | # | Link | Description |
 | :---: | :---: | :---: |
 | <img title="Portfolio" height="20px" src="./assets/portfolio.png"/> | <a href="https://aleksander73-portfolio.herokuapp.com">Portfolio</a> | Personal projects |
-| <img title="Codewars" height="32px" src="./assets/codewars.png"/> | <a href="https://github.com/aleksander73/codewars">Codewars</a> | Programming problem solving website |
-| <img title="Euler project" height="32px" src="./assets/euler.png"/> | <a href="https://github.com/aleksander73/euler-project">Euler project</a> | Mathematical problem solving website |
-| <img title="LinkedIn" height="32px" src="./assets/linkedin.png"/> | <a href="https://www.linkedin.com/in/aleksander-dobkowski-a32534b9/?locale=en_US">LinkedIn</a> | Social networking website |
+| <img title="Codewars" height="30px" src="./assets/codewars.png"/> | <a href="https://github.com/aleksander73/codewars">Codewars</a> | Programming problem solving website |
+| <img title="Euler project" height="30px" src="./assets/euler.png"/> | <a href="https://github.com/aleksander73/project-euler">Euler project</a> | Mathematical problem solving website |
+| <img title="LinkedIn" height="30px" src="./assets/linkedin.png"/> | <a href="https://www.linkedin.com/in/aleksander-dobkowski-a32534b9/?locale=en_US">LinkedIn</a> | Social networking website |
 
 <h1></h1>
 
