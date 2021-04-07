@@ -44,5 +44,5 @@ Here are some ideas to get you started:
 
 ### GitHub statistics
 
-<a href="https://github.com/aleksander73"><img src="https://github-readme-stats.vercel.app/api/?username=aleksander73&count_private=true&show_icons=true&theme=dark&bg_color=0d1117&border_radius=0" width="475px" /></a>
-<a href="https://github.com/aleksander73"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleksander73&layout=compact&langs_count=10&card_width=445&exclude_repo=physics&theme=dark&bg_color=0d1117&border_radius=0" width="475px" /></a>
+<a href="https://github.com/aleksander73"><img src="https://github-readme-stats-aleksander73.vercel.app/api/?username=aleksander73&count_private=true&show_icons=true&theme=dark&bg_color=0d1117&border_radius=0" width="475px" /></a>
+<a href="https://github.com/aleksander73"><img src="https://github-readme-stats-aleksander73.vercel.app/api/top-langs/?username=aleksander73&layout=compact&langs_count=10&card_width=445&exclude_repo=physics&theme=dark&bg_color=0d1117&border_radius=0" width="475px" /></a>
