@@ -31,14 +31,14 @@ Here are some ideas to get you started:
 
 ### Projects worth noticing
 
-| # | Project | Description | Tech Stack | Status |
-| :---: | :---: | :---: | :---: | :---: |
-| 1 | <a href="https://github.com/aleksander73/hangout-planner">Hangout planner</a> | Hangout planner web application | HTML, CSS, JavaScript, Vue.js, Node.js, Express.js, MongoDb | In development |
-| 2 | <a href="https://github.com/aleksander73/vector">Vector</a> | 3d game engine | Java, OpenGL | Completed |
-| 3 | <a href="https://github.com/aleksander73/doom">Doom</a> | Doom 1993 game clone | Vector, Java | Completed |
-| 4 | <a href="https://github.com/aleksander73/portfolio-website">Portfolio</a> | My own portfolio website | HTML, CSS, JavaScript, Vue.js, Node.js, Express.js, MongoDb | Completed |
-| 5 | <a href="https://github.com/aleksander73/cpp-ignite-linux">C++ Ignite</a> | Script automating the process of creating a simple C++ project on Linux distributions | Linux Bash | Completed |
-| 6 | <a href="https://github.com/aleksander73/math-library-android">Math library</a> | The library supporting most frequently used entities in 3d game development, i.e. vectors, matrices and quaternions | Java | Completed |
+| # | Project | Description |
+| :---: | :---: | :---: |
+| 1 | <a href="https://aleksander73-portfolio.herokuapp.com/projects/60a10c1f23ad3d7a73750bb0">Hangout planner</a> | Hangout planner web application |
+| 2 | <a href="https://aleksander73-portfolio.herokuapp.com/projects/609baccb8cbefa15f58d8454">Vector</a> | 3d game engine |
+| 3 | <a href="https://aleksander73-portfolio.herokuapp.com/projects/609bad9a8cbefa15f58d8455">Doom</a> | Doom 1993 game clone |
+| 4 | <a href="https://aleksander73-portfolio.herokuapp.com/projects/609bae8a8cbefa15f58d8456">Portfolio</a> | My own portfolio website |
+| 5 | <a href="https://aleksander73-portfolio.herokuapp.com/projects/609baf0a8cbefa15f58d8457">C++ Ignite</a> | Script automating the process of creating a simple C++ project on Linux distributions |
+| 6 | <a href="https://aleksander73-portfolio.herokuapp.com/projects/609baf9c8cbefa15f58d8458">Math library</a> | The library supporting most frequently used entities in 3d game development,<br/>i.e. vectors, matrices and quaternions |
 
 <h1></h1>
 
