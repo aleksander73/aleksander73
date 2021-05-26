@@ -37,9 +37,10 @@ Here are some ideas to get you started:
 | 2 | <a href="https://aleksander73-portfolio.herokuapp.com/projects/609baccb8cbefa15f58d8454">Vector</a> | 3d game engine |
 | 3 | <a href="https://aleksander73-portfolio.herokuapp.com/projects/609bad9a8cbefa15f58d8455">Doom</a> | Doom 1993 game clone |
 | 4 | <a href="https://aleksander73-portfolio.herokuapp.com/projects/609bae8a8cbefa15f58d8456">Portfolio</a> | My own portfolio website |
-| 5 | <a href="https://aleksander73-portfolio.herokuapp.com/projects/609baf0a8cbefa15f58d8457">C++ Ignite</a> | Script automating the process of creating a simple C++ project on Linux distributions |
-| 6 | <a href="https://aleksander73-portfolio.herokuapp.com/projects/609baf9c8cbefa15f58d8458">Math library</a> | The library supporting most frequently used entities in 3d game development,<br/>i.e. vectors, matrices and quaternions |
-| 7 | <a href="https://aleksander73-portfolio.herokuapp.com/projects/60a10c1f23ad3d7a73750bb0">Hangout planner</a> | Hangout planner web application |
+| 5 | <a href="https://aleksander73-portfolio.herokuapp.com/projects/60ae407a2bf9e10c5b06299e">Flow Editor</a> | A reauseable Flow Editor Vue.js component |
+| 6 | <a href="https://aleksander73-portfolio.herokuapp.com/projects/609baf0a8cbefa15f58d8457">C++ Ignite</a> | Script automating the process of creating a simple C++ project on Linux distributions |
+| 7 | <a href="https://aleksander73-portfolio.herokuapp.com/projects/609baf9c8cbefa15f58d8458">Math library</a> | The library supporting most frequently used entities in 3d game development,<br/>i.e. vectors, matrices and quaternions |
+| 8 | <a href="https://aleksander73-portfolio.herokuapp.com/projects/60a10c1f23ad3d7a73750bb0">Hangout planner</a> | Hangout planner web application |
 
 <h1></h1>
 
