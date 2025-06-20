@@ -18,10 +18,3 @@
 | :---: | :---: | :---: |
 | <img title="Codewars" height="30px" src="./assets/codewars.png"/> | <a href="https://github.com/aleksander73/codewars">Codewars</a> | Programming problem solving website |
 | <img title="Project Euler" height="30px" src="./assets/euler.png"/> | <a href="https://github.com/aleksander73/project-euler">Project Euler</a> | Mathematical problem solving website |
-
-<h1></h1>
-
-### GitHub statistics
-
-<a href="https://github.com/aleksander73"><img src="https://github-readme-stats-aleksander73.vercel.app/api/?username=aleksander73&count_private=true&show_icons=true&hide=prs&theme=dark&bg_color=0d1117&border_radius=0" width="500px" /></a>
-<a href="https://github.com/aleksander73"><img src="https://github-readme-stats-aleksander73.vercel.app/api/top-langs/?username=aleksander73&layout=compact&langs_count=10&card_width=445&exclude_repo=doom-old,physics,test&theme=dark&bg_color=0d1117&border_radius=0" width="500px" /></a>
